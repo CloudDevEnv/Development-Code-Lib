@@ -1,0 +1,36 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "SobjectUtil", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 9
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "SobjectUtil", 
+    "tableDeclaration": {
+        "type": "SobjectUtil", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 8
+        }, 
+        "name": "SobjectUtil"
+    }, 
+    "key": "01p1a00000185iDAAQ", 
+    "variables": [], 
+    "id": "01p1a00000185iDAAQ", 
+    "methods": []
+}

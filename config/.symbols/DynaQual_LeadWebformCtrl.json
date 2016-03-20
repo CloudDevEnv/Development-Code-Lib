@@ -1,0 +1,188 @@
+{
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "lstFieldInfo", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 25, 
+                "line": 11
+            }, 
+            "type": "LIST"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [
+        {
+            "properties": [
+                {
+                    "modifiers": [], 
+                    "name": "LabelName", 
+                    "visibility": "PUBLIC", 
+                    "references": [], 
+                    "location": {
+                        "column": 17, 
+                        "line": 26
+                    }, 
+                    "type": "String"
+                }, 
+                {
+                    "modifiers": [], 
+                    "name": "APIName", 
+                    "visibility": "PUBLIC", 
+                    "references": [], 
+                    "location": {
+                        "column": 17, 
+                        "line": 27
+                    }, 
+                    "type": "String"
+                }, 
+                {
+                    "modifiers": [], 
+                    "name": "DefaultValue", 
+                    "visibility": "PUBLIC", 
+                    "references": [], 
+                    "location": {
+                        "column": 17, 
+                        "line": 28
+                    }, 
+                    "type": "String"
+                }, 
+                {
+                    "modifiers": [], 
+                    "name": "isHidden", 
+                    "visibility": "PUBLIC", 
+                    "references": [], 
+                    "location": {
+                        "column": 18, 
+                        "line": 29
+                    }, 
+                    "type": "Boolean"
+                }
+            ], 
+            "externalReferences": [], 
+            "innerClasses": [], 
+            "interfaces": [], 
+            "constructors": [
+                {
+                    "modifiers": [], 
+                    "name": "FieldInfo", 
+                    "parameters": [
+                        {
+                            "type": "String", 
+                            "name": "LabelName"
+                        }, 
+                        {
+                            "type": "String", 
+                            "name": "APIName"
+                        }, 
+                        {
+                            "type": "String", 
+                            "name": "DefaultValue"
+                        }, 
+                        {
+                            "type": "Boolean", 
+                            "name": "isHidden"
+                        }
+                    ], 
+                    "visibility": "PUBLIC", 
+                    "references": [], 
+                    "location": {
+                        "column": 10, 
+                        "line": 31
+                    }, 
+                    "type": null
+                }
+            ], 
+            "namespace": null, 
+            "name": "FieldInfo", 
+            "tableDeclaration": {
+                "type": "FieldInfo", 
+                "modifiers": [], 
+                "references": [], 
+                "location": {
+                    "column": 15, 
+                    "line": 25
+                }, 
+                "name": "FieldInfo"
+            }, 
+            "key": null, 
+            "variables": [
+                {
+                    "type": "String", 
+                    "modifiers": [], 
+                    "references": [], 
+                    "location": {
+                        "column": 27, 
+                        "line": 31
+                    }, 
+                    "name": "LabelName"
+                }, 
+                {
+                    "type": "String", 
+                    "modifiers": [], 
+                    "references": [], 
+                    "location": {
+                        "column": 44, 
+                        "line": 31
+                    }, 
+                    "name": "APIName"
+                }, 
+                {
+                    "type": "String", 
+                    "modifiers": [], 
+                    "references": [], 
+                    "location": {
+                        "column": 59, 
+                        "line": 31
+                    }, 
+                    "name": "DefaultValue"
+                }, 
+                {
+                    "type": "Boolean", 
+                    "modifiers": [], 
+                    "references": [], 
+                    "location": {
+                        "column": 81, 
+                        "line": 31
+                    }, 
+                    "name": "isHidden"
+                }
+            ], 
+            "id": null, 
+            "methods": []
+        }
+    ], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "DynaQual_LeadWebformCtrl", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 20
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "DynaQual_LeadWebformCtrl", 
+    "tableDeclaration": {
+        "type": "DynaQual_LeadWebformCtrl", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 30, 
+            "line": 8
+        }, 
+        "name": "DynaQual_LeadWebformCtrl"
+    }, 
+    "key": "01p1a0000017mfRAAQ", 
+    "variables": [], 
+    "id": "01p1a0000017mfRAAQ", 
+    "methods": []
+}

@@ -1,0 +1,19 @@
+{
+    "username": "dev@leadqualification.com", 
+    "environment": "production", 
+    "project_name": "Dynaform Lead Qualification", 
+    "workspace": "/Volumes/Macintosh HD 2/SFDC Sublime Dic", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "VNYI4AA3C7V976390K6PV1Z2RTUCO2K1", 
+    "metadata_container": "1dc1a000000Uf76AAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}

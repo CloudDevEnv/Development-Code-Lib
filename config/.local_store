@@ -1,0 +1,54 @@
+{
+    "DynaQual_LeadWebform.page": {
+        "createdById": "0051a000000eIgeAAE", 
+        "createdByName": "Dynamic LeadQualityCheck", 
+        "createdDate": "2015-05-24 13:44:18", 
+        "fileName": "unpackaged/pages/DynaQual_LeadWebform.page", 
+        "fullName": "DynaQual_LeadWebform", 
+        "id": "0661a000000oqNkAAI", 
+        "lastModifiedById": "0051a000000eIgeAAE", 
+        "lastModifiedByName": "Dynamic LeadQualityCheck", 
+        "lastModifiedDate": "2015-05-26 21:57:25", 
+        "mmState": "clean", 
+        "type": "ApexPage"
+    }, 
+    "DynaQual_LeadWebformCtrl.cls": {
+        "createdById": "0051a000000eIgeAAE", 
+        "createdByName": "Dynamic LeadQualityCheck", 
+        "createdDate": "2015-05-24 13:52:59", 
+        "fileName": "unpackaged/classes/DynaQual_LeadWebformCtrl.cls", 
+        "fullName": "DynaQual_LeadWebformCtrl", 
+        "id": "01p1a0000017mfRAAQ", 
+        "lastModifiedById": "0051a000000eIgeAAE", 
+        "lastModifiedByName": "Dynamic LeadQualityCheck", 
+        "lastModifiedDate": "2015-05-26 21:37:21", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "FieldUtil.cls": {
+        "createdById": "0051a000000eIgeAAE", 
+        "createdByName": "Dynamic LeadQualityCheck", 
+        "createdDate": "2015-05-26 21:42:42", 
+        "fileName": "unpackaged/classes/FieldUtil.cls", 
+        "fullName": "FieldUtil", 
+        "id": "01p1a00000185iNAAQ", 
+        "lastModifiedById": "0051a000000eIgeAAE", 
+        "lastModifiedByName": "Dynamic LeadQualityCheck", 
+        "lastModifiedDate": "2015-05-26 21:48:09", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "SobjectUtil.cls": {
+        "createdById": "0051a000000eIgeAAE", 
+        "createdByName": "Dynamic LeadQualityCheck", 
+        "createdDate": "2015-05-26 21:40:14", 
+        "fileName": "unpackaged/classes/SobjectUtil.cls", 
+        "fullName": "SobjectUtil", 
+        "id": "01p1a00000185iDAAQ", 
+        "lastModifiedById": "0051a000000eIgeAAE", 
+        "lastModifiedByName": "Dynamic LeadQualityCheck", 
+        "lastModifiedDate": "2015-05-26 21:58:01", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}

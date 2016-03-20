@@ -1,0 +1,139 @@
+{
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "LabelName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 10
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "APIName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 11
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "DefaultValue", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 12
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "isHidden", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 17, 
+                "line": 13
+            }, 
+            "type": "Boolean"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "FieldUtil", 
+            "parameters": [
+                {
+                    "type": "String", 
+                    "name": "LabelName"
+                }, 
+                {
+                    "type": "String", 
+                    "name": "APIName"
+                }, 
+                {
+                    "type": "String", 
+                    "name": "DefaultValue"
+                }, 
+                {
+                    "type": "Boolean", 
+                    "name": "isHidden"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 15
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "FieldUtil", 
+    "tableDeclaration": {
+        "type": "FieldUtil", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 8
+        }, 
+        "name": "FieldUtil"
+    }, 
+    "key": "01p1a00000185iNAAQ", 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 26, 
+                "line": 15
+            }, 
+            "name": "LabelName"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 43, 
+                "line": 15
+            }, 
+            "name": "APIName"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 58, 
+                "line": 15
+            }, 
+            "name": "DefaultValue"
+        }, 
+        {
+            "type": "Boolean", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 80, 
+                "line": 15
+            }, 
+            "name": "isHidden"
+        }
+    ], 
+    "id": "01p1a00000185iNAAQ", 
+    "methods": []
+}
